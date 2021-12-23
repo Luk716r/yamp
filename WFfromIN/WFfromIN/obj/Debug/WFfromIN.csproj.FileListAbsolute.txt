@@ -1,0 +1,11 @@
+C:\Users\Intel\source\repos\WFfromIN\WFfromIN\bin\Debug\WFfromIN.exe.config
+C:\Users\Intel\source\repos\WFfromIN\WFfromIN\bin\Debug\WFfromIN.exe
+C:\Users\Intel\source\repos\WFfromIN\WFfromIN\bin\Debug\WFfromIN.pdb
+C:\Users\Intel\source\repos\WFfromIN\WFfromIN\obj\Debug\WFfromIN.csproj.AssemblyReference.cache
+C:\Users\Intel\source\repos\WFfromIN\WFfromIN\obj\Debug\WFfromIN.csproj.SuggestedBindingRedirects.cache
+C:\Users\Intel\source\repos\WFfromIN\WFfromIN\obj\Debug\WFfromIN.Form1.resources
+C:\Users\Intel\source\repos\WFfromIN\WFfromIN\obj\Debug\WFfromIN.Properties.Resources.resources
+C:\Users\Intel\source\repos\WFfromIN\WFfromIN\obj\Debug\WFfromIN.csproj.GenerateResource.cache
+C:\Users\Intel\source\repos\WFfromIN\WFfromIN\obj\Debug\WFfromIN.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\WFfromIN\WFfromIN\obj\Debug\WFfromIN.exe
+C:\Users\Intel\source\repos\WFfromIN\WFfromIN\obj\Debug\WFfromIN.pdb
